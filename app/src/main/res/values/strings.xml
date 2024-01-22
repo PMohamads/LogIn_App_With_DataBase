@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LogInProject</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="button_width">50dp</string>
+    <string name="link">Click <a href="https://www.youtube.com/playlist?list=PLMmkzTQmKnAgbW4Z7TOtUul6eLQWCHXJx"> Here </a></string>
+
+</resources>
