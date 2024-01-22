@@ -36,7 +36,6 @@ public class LogInActivity extends AppCompatActivity {
     }
 
     public void Loggingin(View view) {
-        startActivity(new Intent(LogInActivity.this,DrawerMenuActivity.class));
         String GirilenEmail = Email.getText().toString().trim();
         String GirilenSifre = Sifre.getText().toString().trim();
         if(TextUtils.isEmpty(GirilenEmail) || TextUtils.isEmpty(GirilenSifre)){
